@@ -1,2 +1,2 @@
-# ionic-test
+# Testing app
 Testing app Ionic
